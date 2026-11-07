@@ -3,7 +3,7 @@
 **AI Engineering student (B.E. AI & ML, Atria Institute of Technology, 2027) based in Bengaluru.**
 I build LLM-powered applications and ML systems with Python and FastAPI , and I'm looking for AI / ML Engineer internships.
 
-[LinkedIn](https://www.linkedin.com/in/mahi-sharma-31sh/) · [Email](mailto:mahisharma31102004@gmail.com)
+[LeetCode](https://leetcode.com/u/Mahi31sh/) · [LinkedIn](https://www.linkedin.com/in/mahi-sharma-31sh/) · [Email](mailto:mahisharma31102004@gmail.com)
 
 ---
 
